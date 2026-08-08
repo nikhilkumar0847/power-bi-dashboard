@@ -10,7 +10,7 @@ The dashboard contains 7 data tables and their information as follows.
 
 Contains product, brand, pricing and inventory-related information.
 
-| Column | Description |
+| Column | Descriptions |
 |---|---|
 | Product ID | Unique identifier for each product |
 | Product Name | Name of the product |
